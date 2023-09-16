@@ -1,0 +1,10 @@
+com\puja\productservice\ProductServiceApplication.class
+com\puja\productservice\service\ProductService.class
+com\puja\productservice\controller\ProductController.class
+com\puja\productservice\dto\ProductRequest.class
+com\puja\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\puja\productservice\model\Product.class
+com\puja\productservice\dto\ProductResponse.class
+com\puja\productservice\repository\ProductRepository.class
+com\puja\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\puja\productservice\model\Product$ProductBuilder.class
